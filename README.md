@@ -1,5 +1,7 @@
 # appXLMain
 
+[![Build Status](https://travis-ci.org/app-XL/appXLMain.svg?branch=master)](https://travis-ci.org/app-XL/appXLMain) [![Coverage Status](https://coveralls.io/repos/github/app-XL/appXLMain/badge.svg?branch=master)](https://coveralls.io/github/app-XL/appXLMain?branch=master)
+
 AppXL a Standard Application Framework to quick start an enterprise class application with basic scaffolding.
 The framework provides major features like Frontend, API’s and Backend layers required for an application development.
 
